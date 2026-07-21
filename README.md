@@ -66,7 +66,7 @@ Information Science Engineering Student | Full Stack Developer | Java Developer 
 - LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
 - Email: your-email@example.com
 
-⚡ **Fun Fact:** I enjoy solving LeetCode problems and building practical software projects.
+⚡ **Fun Fact:** I once spent an entire weekend debugging a single line of code... only to discover it was a missing semicolon 😅.
 
 </td>
 
